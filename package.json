@@ -77,7 +77,7 @@
     "sinon": "^4.2.2",
     "webpack": "^3.10.0",
     "webpack-atoms": "^5.0.0",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "^5.2.1"
   },
   "dependencies": {
     "dom-helpers": "^3.3.1",
